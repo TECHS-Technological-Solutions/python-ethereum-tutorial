@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.py
+src/UNKNOWN.egg-info/PKG-INFO
+src/UNKNOWN.egg-info/SOURCES.txt
+src/UNKNOWN.egg-info/dependency_links.txt
+src/UNKNOWN.egg-info/entry_points.txt
+src/UNKNOWN.egg-info/top_level.txt
+src/main/__init__.py
+src/main/settings.py
+src/main/web3_example.py
